@@ -39,4 +39,3 @@ if 'hawaiian' in pizzas:
     # Test whether an item is not in a list
 if 'four seasons' not in pizzas: 
     print('four season is not one of my favorite pizza')
-

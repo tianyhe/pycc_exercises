@@ -7,8 +7,6 @@ def show_messages(text_messages):
 name_list = ['Rico', 'Liz', 'Batu', 'Chasel', 'Shawn']
 show_messages(name_list)
 
-print('\n')
-
 # 8.10 - Sending Messages
 def send_messages(unsent_messages, sent_messages):
     """
@@ -26,8 +24,6 @@ sent = []
 send_messages(unsent, sent)
 print('Unsent Messages:', unsent)
 print('Sent Messages:', sent)
-
-print('\n')
 
 # 8.11 - Archived Messages
 unsent = ['I love Python', 'I love Computer Science', 'I love Programming']

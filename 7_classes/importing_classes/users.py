@@ -31,5 +31,3 @@ class Users:
     def reset_login_attempts(self):
         """Reset the value of login_attempts to 0"""
         self.login_attempts = 0
-
-

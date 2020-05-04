@@ -30,8 +30,6 @@ your_restaurant.describe_restaurant()
 his_restaurant = Restaurant('New Baby', 'French')
 his_restaurant.describe_restaurant()
 
-print('')
-
 # 9.3 - Users
 class Users:
     """A simple attempt to model User's Profile."""

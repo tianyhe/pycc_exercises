@@ -97,7 +97,4 @@ my_tesla.battery.upgrade_battery()
 print("---Upgrade Completed---")
 my_tesla.battery.describe_battery()
 my_tesla.battery.get_range()
-
-
-
     

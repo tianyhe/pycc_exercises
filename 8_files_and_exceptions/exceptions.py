@@ -66,4 +66,3 @@ path = '8_files_and_exceptions/txt/'
 count_words(path, 'moby_dick.txt')
 count_words(path, 'moby_dick.txt', 'the')
 count_words(path, 'moby_dick.txt', 'the ')
-

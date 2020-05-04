@@ -18,7 +18,7 @@ make_shirt_default()
 make_shirt_default(size='Medium')
 make_shirt_default(size='Small', message='I love Computer Science')
 
-# 8.4 - Cities
+# 8.5 - Cities
 def describe_city(city, country='China'):
     """accepts the name of the city and its country then print a simple sentence. The default value of country is China."""
     print(f"\n{city.title()} is in {country.title()}.")

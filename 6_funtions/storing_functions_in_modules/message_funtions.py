@@ -13,5 +13,3 @@ def send_messages(unsent_messages, sent_messages):
         current_messages = unsent_messages.pop()
         print(f"Sending messages: {current_messages}")
         sent_messages.append(current_messages)
-
-

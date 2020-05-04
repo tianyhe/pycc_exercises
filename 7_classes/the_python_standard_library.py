@@ -28,8 +28,6 @@ my_die = Die(20)
 for time in range(10):
     my_die.roll_die()
 
-print("")
-
 # 9.14 - Lottery
 lottery_combination = (0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 'a', 'b', 'c', 'd', 'e')
 winning_ticket = choices(lottery_combination, k=4)

@@ -18,7 +18,7 @@ for new_user in new_users:
     else:
         print(f'The username "{new_user}" is available')
 
-# 5.10 - Ordinal Numbers:
+# 5.10 - Ordinal Numbers
 nums = list(range(1,10))
 for num in nums:
     if num == 1:

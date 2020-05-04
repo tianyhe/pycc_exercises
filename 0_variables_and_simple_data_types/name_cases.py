@@ -18,7 +18,7 @@ quote = 'A person who never made a mistake never tried anything new'
 message = f'{famous_person} once said, "{quote}"'
 print(message)
 
-# 2.7 - Stripping Names:
+# 2.7 - Stripping Names
 my_name = "\n\tRico Tianyao He\n"
 print('original text:', my_name)
 print('lstrip:', my_name.lstrip())

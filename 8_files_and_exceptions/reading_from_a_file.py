@@ -24,4 +24,3 @@ print(file_string)
 print("---Replace 'Python' with 'C'---")
 for line in lines:
     print(line.replace('Python', 'C').strip())
-

@@ -46,8 +46,6 @@ print("----Incrementing the number_served's Value Through a Method---")
 my_restaurant.increment_number_served(10)
 my_restaurant.describe_restaurant()
 
-print('')
-
 # 9.5 - Login Attempts
 class Users:
     """A simple attempt to model User's Profile."""
@@ -98,5 +96,3 @@ my_profile.describe_user()
 print(f"---Reset the Login Attempts to 0---")
 my_profile.reset_login_attempts()
 my_profile.describe_user()
-
-

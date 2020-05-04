@@ -48,6 +48,7 @@ for ppl, nums in favorite_number.items():
     for num in nums:
         print(num, end=' ')
 print('')
+
 # 6.11 - Cities
 cities = {
     'barcelona': {

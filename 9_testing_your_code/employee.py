@@ -11,4 +11,3 @@ class Employee():
     def get_raise(self, amount_raise=5000):
         """Raise employee annual salary with a default value of 5k."""
         self.annual_salary += amount_raise
-        

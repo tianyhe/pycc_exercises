@@ -1,18 +1,18 @@
-# 5.2 - Alien Colors #1 
+# 5.2 - Alien Colors 1 
 alien_color_1 = 'green'
 if alien_color_1 == 'green':
     print('You just earnd 5 points')
 if alien_color_1 == 'red':
     print('You are died')
 
-# 5.3 - Alien Colors #2
+# 5.3 - Alien Colors 2
 alien_color_2 ='red'
 if alien_color_2 != 'green':
     print('You just earned 10 points')
 else:
     print('You are died')
 
-# 5.4 - Alien Color #3
+# 5.4 - Alien Color 3
 alien_color_3 = 'yellow'
 pts = 0
 if alien_color_3 == 'green':

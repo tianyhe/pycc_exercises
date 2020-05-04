@@ -11,8 +11,6 @@ print(pairs)
 pairs = city_country('Shanghai', 'China')
 print(pairs)
 
-print('\n')
-
 # 8.7 - Album
 def make_album(artist_name, album_title, number_of_songs=None):
     """Return a dictionary of information about an album"""
